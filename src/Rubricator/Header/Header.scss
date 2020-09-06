@@ -1,0 +1,9 @@
+.Rubricator__Header {
+  background-color: #f9d606;
+  min-height: 200px;
+  cursor: pointer;
+  
+  &--expanded {
+    min-height: 400px;
+  }
+}
